@@ -7,7 +7,8 @@
         "eagerPatches": false,
         "enabledThemes": [
             "ClearVision-v7-BetterDiscord.theme.css",
-            "ClearVision-v7-Emerald-Vencord - Copy.css"
+            "ClearVision-v7-Emerald-Vencord - Copy.css",
+            "ClearVision-v7-MikaYuu-Green.css"
         ],
         "enableReactDevtools": false,
         "frameless": false,
@@ -252,7 +253,7 @@
                 "oldIcon": false
             },
             "GifPaste": {
-                "enabled": false
+                "enabled": true
             },
             "GreetStickerPicker": {
                 "enabled": true,
@@ -486,7 +487,7 @@
                         {
                             "id": "32ipqrh5vfu",
                             "name": "𝙋𝙞𝙣𝙣𝙚𝙙",
-                            "color": 16751103,
+                            "color": 124467,
                             "collapsed": false,
                             "channels": [
                                 "1350953506449784994",
@@ -680,8 +681,8 @@
                 "receivedInput": "auto",
                 "service": "google",
                 "receivedOutput": "en",
-                "sentInput": "en",
-                "sentOutput": "eo",
+                "sentInput": "auto",
+                "sentOutput": "en",
                 "showAutoTranslateTooltip": true,
                 "showAutoTranslateAlert": false
             },
@@ -786,7 +787,7 @@
             },
             "Settings": {
                 "enabled": true,
-                "settingsLocation": "aboveNitro"
+                "settingsLocation": "top"
             },
             "SupportHelper": {
                 "enabled": true
@@ -802,7 +803,7 @@
             "authenticated": false,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1753382394951
+            "settingsSyncVersion": 1753458731636
         }
     },
     "quickCss": ""
